@@ -1,2 +1,2 @@
-# ArrayPractice
+# ArrayPractices
 50+ Array Question
